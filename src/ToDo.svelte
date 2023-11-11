@@ -18,11 +18,9 @@
 
 <main>
  
-  <h1>Svelte Todo List</h1>
-
+  <h2>Todo List</h2>
 
   <input bind:value={newTodo} placeholder="Add a new todo" />
-
 
   <button on:click={addTodo}>Add</button>
 
