@@ -16,7 +16,7 @@ Welcome to the Svelte Todo List app! This is a simple todo list application buil
 
 ## Preview
 
-https://github.com/Ajay-Dhangar/svelte-todo/assets/99037494/639fa59d-e8da-49df-a788-fffe3a150ff3
+👉 [Click Here](https://svelte-todo-1.vercel.app/)
 
 ## Installation
 
