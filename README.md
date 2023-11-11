@@ -1,6 +1,8 @@
 
 # Svelte Todo List App
 
+![image](https://github.com/Ajay-Dhangar/svelte-todo/assets/99037494/adafbe37-cdae-46b8-86af-bc5337a49906)
+
 ## Description
 
 Welcome to the Svelte Todo List app! This is a simple todo list application built with Svelte, designed to help you manage your tasks efficiently. The app provides a clean and responsive interface for adding, viewing, and removing todos.
@@ -14,7 +16,7 @@ Welcome to the Svelte Todo List app! This is a simple todo list application buil
 
 ## Preview
 
-
+https://github.com/Ajay-Dhangar/svelte-todo/assets/99037494/639fa59d-e8da-49df-a788-fffe3a150ff3
 
 ## Installation
 
@@ -44,7 +46,7 @@ Follow these steps to run the app locally:
    npm run dev
    ```
 
-5. Open your browser and go to [http://localhost:5000](http://localhost:5000) to view the app.
+5. Open your browser and go to [http://localhost:8080/](http://localhost:8080/) to view the app.
 
 ## Usage
 
